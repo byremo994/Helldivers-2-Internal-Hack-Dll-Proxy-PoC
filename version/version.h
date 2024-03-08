@@ -1,4 +1,4 @@
-// DLLForward by itisluiz v1.2.1.2
+// Fork build 1.0
 #pragma once
 #include <cstdint>
 #include <Windows.h>
